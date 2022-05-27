@@ -1,4 +1,4 @@
-# My Portfolio
+# Todo List
 
 > This is a todo list project done using React
 
